@@ -55,6 +55,8 @@ SEARCH_TERMS = [
     "Solutions Engineer Intern",
     "Database Engineer Intern",
     "API Developer Intern",
+    "AI Engineering Intern",
+    "Automation Engineer Intern",
 ]
 
 random.shuffle(SEARCH_TERMS)
