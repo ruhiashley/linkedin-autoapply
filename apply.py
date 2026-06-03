@@ -69,7 +69,7 @@ Search for "{term}" in "United States".
 Apply these filters:
 - Easy Apply only
 - Experience level: Internship
-- Date posted: Past month
+- Date posted: Past week
 Apply to the first 3 Easy Apply jobs you find.
 Use this info to fill out all forms:
 {MY_INFO}
