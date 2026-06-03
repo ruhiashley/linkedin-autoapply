@@ -1,5 +1,7 @@
 # linkedin-autoapply
 
+![Python](https://img.shields.io/badge/python-3.12-blue) ![LLM](https://img.shields.io/badge/LLM-claude--sonnet-blueviolet) ![Automation](https://img.shields.io/badge/browser--use-automation-orange)
+
 Automated LinkedIn job application agent built with [browser-use](https://github.com/browser-use/browser-use) and Claude (claude-sonnet) as the LLM backbone.
 
 Built this because manually applying to internships was eating 3-4 hours a week. The agent navigates LinkedIn, filters for relevant roles, and submits Easy Apply applications while I do other things.
