@@ -1,0 +1,23 @@
+--- Run started ---
+
+Searching: AI Engineering Intern
+  Applied: Homebase - AI Engineering Intern (San Francisco, CA)
+  Applied: Notion - AI/ML Intern (New York, NY)
+  Skipped: Meta - Senior ML Engineer [blocked keyword: senior]
+
+Searching: Data Engineering Intern
+  Applied: Snowflake - Data Engineering Intern (Remote)
+  Applied: Databricks - Data Intern (San Francisco, CA)
+  Skipped: LinkedIn - Staff Data Engineer [blocked keyword: staff]
+
+Searching: Software Engineering Intern
+  Applied: Stripe - Software Engineering Intern (Remote)
+  Applied: Figma - SWE Intern (San Francisco, CA)
+  Applied: Rippling - Engineering Intern (San Francisco, CA)
+
+Searching: AWS Intern
+  Applied: Amazon - Cloud Support Intern (Seattle, WA)
+  Skipped: AWS - Senior Solutions Architect [blocked keyword: senior]
+  Applied: Salesforce - Infrastructure Intern (Remote)
+
+--- Run complete: 9 applications submitted ---
