@@ -105,7 +105,7 @@ async def main():
             await apply_for_term(term, browser)
         except Exception as e:
             print(f"Error on '{term}': {e} -- skipping to next")
-        await asyncio.sleep(random.uniform(3, 8))
+        await asyncio.sleep(random.uniform(4, 10))
 
     await browser.close()
     print("\nDone applying!")
